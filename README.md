@@ -13,4 +13,5 @@ Modular TypeScript wallet adapters and components for Solana applications.
 
 ![Wallets](wallets.png)
 
-go to packages -> 
+go to 
+packages/starter/create-react-app-starter
